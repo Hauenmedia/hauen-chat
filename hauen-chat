@@ -1,0 +1,12 @@
+hauen-chat/
+├── hauen-chat.php
+├── includes/
+│   ├── class-hauen-chat-db.php
+│   ├── class-hauen-chat-rest.php
+│   ├── class-hauen-chat-security.php
+│   └── class-hauen-chat-frontend.php
+└── assets/
+    ├── js/
+    │   └── hauen-chat.js
+    └── css/
+        └── hauen-chat.css
